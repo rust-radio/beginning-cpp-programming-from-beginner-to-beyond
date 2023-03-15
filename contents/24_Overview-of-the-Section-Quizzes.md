@@ -8,4 +8,4 @@
 
 ---
 
-[Previous](./23_Overview-of-the-Section-Challenge-Exercises.md) | [Next]()
+[Previous](./23_Overview-of-the-Section-Challenge-Exercises.md) | [Next](./25_Section-Overview.md)

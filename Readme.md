@@ -60,9 +60,25 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 4: Getting Started </summary>
 
-  -   [25. ](contents)   
-  -   [26. ](contents)   
-  -   [27. ](contents)   
+  -   [25. Section Overview](contents/25_Section-Overview.md)   
+  -   [26. An Overview of the CodeLite Interface](contents/26_An-Overview-of-the-CodeLite-Interface.md)   
+  -   [27. Writing our first program](contents/27_Writing-our-first-program.md)   
+  -   [28. Building our first program](contents/28_Building-our-first-program.md)   
+  -   [29. ](contents)   
+  -   [30. ](contents)   
+  -   [31. ](contents)   
+  -   [32. ](contents)   
+  -   [33. ](contents)   
+  -   [34. ](contents)   
+  -   [35. ](contents)   
+</details>
+
+<details>
+  <summary> Section 5: Structure of a C++ Program </summary>
+
+  -   [36. ](contents)   
+  -   [37. ](contents)   
+  -   [38. ](contents)   
 </details>
 
 
