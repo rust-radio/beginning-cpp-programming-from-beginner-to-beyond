@@ -23,16 +23,37 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 
   -   [1.  About the Course](contents/1_About-the-Course.md)   
   -   [2.  Why Learn C++?](contents/2_Why-Learn-C%2B%2B%3F.md)   
-  -   [3. Modern C++ and the C++ Standard](contents/3_Modern-C%2B%2B-and-the-C%2B%2B-Standard.md)   
-  -   [4. How does all this work?](contents/4_How-does-all-this-work%3F.md)   
+  -   [3.  Modern C++ and the C++ Standard](contents/3_Modern-C%2B%2B-and-the-C%2B%2B-Standard.md)   
+  -   [4.  How does all this work?](contents/4_How-does-all-this-work%3F.md)   
   -   [5.  FAQ -- Please Read!](contents/5_FAQ_Please-Read!.md)   
 </details>
 
 <details>
   <summary> Section 2: Installation and Setup </summary>
 
-  -   [6.  ](contents)   
-  -   [7.  ](contents)   
+  -   [6.  Installation and Setup Overview](contents/6_Installation-and-Setup-Overview.md)   
+  -   [7.  Installing the C++ Compiler on Windows](contents/7_Installing-the-C%2B%2B-Compiler-on-Windows.md)   
+  -   [8.  Installing CodeLite on Windows](contents/8_Installing-CodeLite-on-Windows.md)   
+  -   [9.  Configuring CodeLite on Windows](contents/9_Configuring-CodeLite-on-Windows.md)   
+  -   [10. Installing the C++ Compiler on Mac OSX](contents/10_Installing-the-C%2B%2B-Compiler-on-Mac-OSX.md)   
+  -   [11. Installing CodeLite on Mac OSX](contents/11_Installing-CodeLite-on-Mac-OSX.md) 
+  -   [12. Configuring CodeLite on Mac OSX](contents/12_Configuring-CodeLite-on-Mac-OSX.md) 
+  -   [13. Using the Command-Line interface](contents/13_Using-the-Command-Line-interface.md) 
+  -   [14. Installing CodeLite on Ubuntu Linux](contents/14_Installing-CodeLite-on-Ubuntu-Linux..md) 
+  -   [15. Configuring CodeLite on Ubuntu Linux](contents/15_Configuring-CodeLite-on-Ubuntu-Linux.md) 
+  -   [16. Creating a Default CodeLite Project Template (All Versions)](contents/16_Creating-a-Default-CodeLite-Project-Template-(All%20Versions).md) 
+  -   [17. Using the Command-Line Interface on Windows](contents/17_Using-the-Command-Line-Interface-on-Windows.md) 
+  -   [18. Using the Command-Line Interface on Mac OSX](contents/18_Using-the-Command-Line%20Interface-on-Mac-OSX.md) 
+  -   [19. Using the Command-Line Interface on Linux (Ubuntu)](contents/19_Using-the-Command-Line-Interface-on-Linux-(Ubuntu).md) 
+  -   [20. Using a Web-based C++ Compiler](contents/20_Using-a-Web-based-C%2B%2B-Compiler.md) 
+  -   [21. Using the Included Source Code Course Resources](contents/21_Using-the-Included-Source-Code-Course-Resources.md) 
+</details>
+
+<details>
+  <summary> Section 3: Curriculum Overview </summary>
+
+  -   [22. ](contents)   
+  -   [23. ](contents)   
 </details>
 
 
