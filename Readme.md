@@ -64,7 +64,7 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [26. An Overview of the CodeLite Interface](contents/26_An-Overview-of-the-CodeLite-Interface.md)   
   -   [27. Writing our first program](contents/27_Writing-our-first-program.md)   
   -   [28. Building our first program](contents/28_Building-our-first-program.md)   
-  -   [29. ](contents)   
+  -   [29. What are Compiler Errors?](contents/29_What-are-Compiler-Errors%3F.md)   
   -   [30. ](contents)   
   -   [31. ](contents)   
   -   [32. ](contents)   
