@@ -76,9 +76,17 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 5: Structure of a C++ Program </summary>
 
-  -   [36. ](contents)   
+  -   [36. Section Overview](contents/36_Section-Overview.md)   
   -   [37. ](contents)   
   -   [38. ](contents)   
+</details>
+
+<details>
+  <summary> Section 6: Variables and Constants </summary>
+
+  -   [43. ](contents)   
+  -   [44. ](contents)   
+  -   [45. ](contents)   
 </details>
 
 
