@@ -8,4 +8,4 @@
 
 ---
 
-[Previous](./29_What-are-Compiler-Errors%3F.md) | [Next]()
+[Previous](./29_What-are-Compiler-Errors%3F.md) | [Next](./31_What-are-Linker-Errors%3F.md)
