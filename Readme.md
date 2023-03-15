@@ -52,8 +52,17 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 3: Curriculum Overview </summary>
 
-  -   [22. ](contents)   
-  -   [23. ](contents)   
+  -   [22. Curriculum Overview](contents/22_Curriculum-Overview.md)   
+  -   [23. Overview of the Section Challenge Exercises](contents/23_Overview-of-the-Section-Challenge-Exercises.md)   
+  -   [24. Overview of the Section Quizzes](contents/24_Overview-of-the-Section-Quizzes.md)   
+</details>
+
+<details>
+  <summary> Section 4: Getting Started </summary>
+
+  -   [25. ](contents)   
+  -   [26. ](contents)   
+  -   [27. ](contents)   
 </details>
 
 
