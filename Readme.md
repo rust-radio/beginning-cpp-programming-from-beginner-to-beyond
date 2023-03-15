@@ -68,9 +68,9 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [30. What are Compiler Warnings?](contents/30_What-are-Compiler-Warnings%3F.md)   
   -   [31. What are Linker Errors?](contents/31_What-are-Linker-Errors%3F.md)   
   -   [32. What are Runtime Errors?](contents/32_What-are-Runtime-Errors%3F.md)   
-  -   [33. ](contents)   
-  -   [34. ](contents)   
-  -   [35. ](contents)   
+  -   [33. What are Logic Errors?](contents/33_What-are-Logic-Errors%3F.md)   
+  -   [34. Section Challenge](contents)   
+  -   [35. 35. Section Challenge - Solution](contents/35_Section-Challenge-Solution.md)   
 </details>
 
 <details>

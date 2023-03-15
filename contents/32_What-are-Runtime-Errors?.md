@@ -8,4 +8,4 @@
 
 ---
 
-[Previous](./31_What-are-Linker-Errors%3F.md) | [Next]()
+[Previous](./31_What-are-Linker-Errors%3F.md) | [Next](./33_What-are-Logic-Errors%3F.md)
