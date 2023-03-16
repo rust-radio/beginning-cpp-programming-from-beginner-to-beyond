@@ -12,11 +12,11 @@
   g++ -Wall -std=c++14 main.cpp  
   ```
 
-  - [Codebase: ](../codebase/S5_Structure-of-a-Cpp-Program.md/)
+  - [Codebase: 36. Section Overview](../codebase/S5_Structure-of-a-Cpp-Program.md/)
 
 </details>
 
 
 ---
 
-[Previous](./35_Section-Challenge-Solution.md) | [Next]()
+[Previous](./35_Section-Challenge-Solution.md) | [Next](./37_Overview-of-the-Structure-of-a-Cpp-Program.md)

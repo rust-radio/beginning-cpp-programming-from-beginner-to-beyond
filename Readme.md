@@ -77,8 +77,12 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   <summary> Section 5: Structure of a C++ Program </summary>
 
   -   [36. Section Overview](contents/36_Section-Overview.md)   
-  -   [37. ](contents)   
-  -   [38. ](contents)   
+  -   [37. Overview of the Structure of a C++ Program](contents/37_Overview-of-the-Structure-of-a-Cpp-Program.md)   
+  -   [38. #include Preprocessor Directive](contents/38_%23include-Preprocessor-Directive.md)   
+  -   [39. Comments](contents/39_Comments.md)   
+  -   [40. The main() function](contents/40_The-main()-function.md)   
+  -   [41. Namespaces](contents/41_Namespaces.md)   
+  -   [42. Basic Input and Output (I/O) using cin and cout](contents/42_Basic-Input-and-Output-IO-using-cin-and-cout.md)   
 </details>
 
 <details>
