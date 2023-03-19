@@ -2,6 +2,9 @@
 
 -   [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/#instructor-1)
 
+-   [BCP-Slides.pdf](https://beatlesm.s3.us-west-1.amazonaws.com/beginning-cpp-programming-from-beginner-to-beyond/BCP-Slides.pdf)
+
+
 Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.
 
 ##  What you'll learn
@@ -88,12 +91,40 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 6: Variables and Constants </summary>
 
-  -   [43. ](contents)   
-  -   [44. ](contents)   
-  -   [45. ](contents)   
+  -   [43. Section Overview](contents/43_Section-Overview.md)   
+  -   [44. What is a variable?](contents/44_What-is-a-variable%3F.md)   
+  -   [45. Declaring and Initializing Variables](contents/45_Declaring-and-Initializing-Variables.md)   
+  -   [46. Global Variables](contents/46_Global-Variables.md)   
+  -   [47. C++ Built-in Primitive Types](contents/47_Cpp-Built-in-Primitive-Types.md)   
+  -   [48. What is the Size of a Variable (sizeof)](contents/48_What-is-the-Size-of-a-Variable-(sizeof).md)   
+  -   [49. What is a Constant?](contents/49_What-is-a-Constant%3F.md)   
+  -   [50. Declaring and Using Constants](contents/50_Declaring-and-Using-Constants.md)   
+  -   [51. ](contents)   
+  -   [52. ](contents)   
+</details>
+
+<details>
+  <summary> Section 7: Arrays and Vectors </summary>
+
+  -   [53. ](contents)   
+  -   [54. ](contents)   
+  -   [55. ](contents)   
 </details>
 
 
+
+
+<details>
+  <summary> Section 25: Extra Information - Source code, and other stuff </summary>
+
+  -   [304. Source Code for all Sections](contents/304_Source-Code-for-all-Sections.md)   
+</details>
+
+<details>
+  <summary> Section 26: Bonus Section - including Slides </summary>
+
+  -   [305. Bonus - Course Slides and Free Programming EBook](contents/304_Source-Code-for-all-Sections.md)   
+</details>
 
 ##  Requirements
 -   Access to a computer running Windows, Mac OS X or Linux
