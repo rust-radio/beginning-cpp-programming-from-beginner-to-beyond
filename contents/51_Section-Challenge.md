@@ -15,4 +15,4 @@
 
 ---
 
-[Previous](./49_What-is-a-Constant%3F.md) | [Next]()
+[Previous](./50_Declaring-and-Using-Constants.md) | [Next](./52_Section-Challenge-Solution.md)

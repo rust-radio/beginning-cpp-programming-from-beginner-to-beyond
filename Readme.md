@@ -100,7 +100,7 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [49. What is a Constant?](contents/49_What-is-a-Constant%3F.md)   
   -   [50. Declaring and Using Constants](contents/50_Declaring-and-Using-Constants.md)   
   -   [51. Section Challenge](contents/51_Section-Challenge.md)   
-  -   [52. ](contents)   
+  -   [52. Section Challenge - Solution](contents/52_Section-Challenge-Solution.md)   
 </details>
 
 <details>
