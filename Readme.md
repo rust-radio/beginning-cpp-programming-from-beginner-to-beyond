@@ -99,7 +99,7 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [48. What is the Size of a Variable (sizeof)](contents/48_What-is-the-Size-of-a-Variable-(sizeof).md)   
   -   [49. What is a Constant?](contents/49_What-is-a-Constant%3F.md)   
   -   [50. Declaring and Using Constants](contents/50_Declaring-and-Using-Constants.md)   
-  -   [51. ](contents)   
+  -   [51. Section Challenge](contents/51_Section-Challenge.md)   
   -   [52. ](contents)   
 </details>
 
