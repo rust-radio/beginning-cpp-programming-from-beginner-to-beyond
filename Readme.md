@@ -106,9 +106,31 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 7: Arrays and Vectors </summary>
 
-  -   [53. ](contents)   
-  -   [54. ](contents)   
-  -   [55. ](contents)   
+  -   [53. Section Overview](contents/53_Section-Overview.md)   
+  -   [54. What is an Array?](contents/54_What-is-an-Array%3F.md)   
+  -   [55. Declaring and Initializing Arrays](contents/55_Declaring-and-Initializing-Arrays.md)   
+  -   [56. Accessing and Modifying Array Elements](contents/56_Accessing-and-Modifying-Array-Elements.md)   
+  -   [57. Multidimensional Arrays](contents/57_Multidimensional-Arrays.md)   
+  -   [58. Declaring and Initializing Vectors](contents/58_Declaring-and-Initializing-Vectors.md)   
+  -   [59. Accessing and Modifying Vector Elements](contents/59_Accessing-and-Modifying-Vector-Elements.md)   
+  -   [60. Section Challeng](contents)   
+  -   [61. Section Challenge - Solution](contents/61_Section-Challenge-Solution.md)   
+</details>
+
+<details>
+  <summary> Section 8: Statements and Operators </summary>
+
+  -   [62. ](contents)   
+  -   [63. ](contents)   
+  -   [64. ](contents)   
+</details>
+
+<details>
+  <summary> Section 9: Controlling Program Flow </summary>
+
+  -   [76. ](contents)   
+  -   [77. ](contents)   
+  -   [77. ](contents)   
 </details>
 
 
