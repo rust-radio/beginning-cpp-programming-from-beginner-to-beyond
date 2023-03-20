@@ -113,16 +113,27 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [57. Multidimensional Arrays](contents/57_Multidimensional-Arrays.md)   
   -   [58. Declaring and Initializing Vectors](contents/58_Declaring-and-Initializing-Vectors.md)   
   -   [59. Accessing and Modifying Vector Elements](contents/59_Accessing-and-Modifying-Vector-Elements.md)   
-  -   [60. Section Challeng](contents)   
+  -   [60. Section Challeng](contents/60_Section-Challenge.md)   
   -   [61. Section Challenge - Solution](contents/61_Section-Challenge-Solution.md)   
 </details>
 
 <details>
   <summary> Section 8: Statements and Operators </summary>
 
-  -   [62. ](contents)   
-  -   [63. ](contents)   
-  -   [64. ](contents)   
+  -   [62. Section Overview](contents/62_Section-Overview.md)   
+  -   [63. Expressions and Statements](contents/63_Expressions-and-Statements.md)   
+  -   [64. Using Operators](contents/64_Using-Operators.md)   
+  -   [65. The Assignment Operator](contents/65_The-Assignment-Operator.md)   
+  -   [66. Arithmetic Operators](contents/66_Arithmetic-Operators.md)   
+  -   [67. Increment and Decrement Operators](contents/67_Increment-and-Decrement-Operators.md)   
+  -   [68. Mixed Expressions and Conversions](contents/68_Mixed-Expressions-and-Conversions.md)   
+  -   [69. Testing for Equality](contents/69_Testing-for-Equality.md)   
+  -   [70. Relational Operators](contents/70_Relational-Operators.md)   
+  -   [71. Logical Operators](contents/71_Logical-Operators.md)   
+  -   [72. Compound Assignment Operators](contents/72_Compound-Assignment-Operators.md)   
+  -   [73. Operator Precedence](contents/73_Operator-Precedence.md)   
+  -   [74. Section Challenge](contents/74_Section-Challenge.md)   
+  -   [75. Section Challenge - Solution](contents/75_Section-Challenge-Solution.md)   
 </details>
 
 <details>
@@ -130,10 +141,48 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 
   -   [76. ](contents)   
   -   [77. ](contents)   
-  -   [77. ](contents)   
+  -   [78. ](contents)   
 </details>
 
+<details>
+  <summary> Section 10: Characters and Strings </summary>
 
+  -   [93.  ](contents)   
+  -   [94.  ](contents)   
+  -   [95.  ](contents)   
+</details>
+
+<details>
+  <summary> Section 11: Functions </summary>
+
+  -   [101. ](contents)   
+  -   [102. ](contents)   
+  -   [103. ](contents)   
+</details>
+
+<details>
+  <summary> Section 12: Pointers and References </summary>
+
+  -   [116. ](contents)   
+  -   [117. ](contents)   
+  -   [118. ](contents)   
+</details>
+
+<details>
+  <summary> Section 13: OOP - Classes and Objects </summary>
+
+  -   [134. ](contents)   
+  -   [135. ](contents)   
+  -   [136. ](contents)   
+</details>
+
+<details>
+  <summary> Section 14: Operator Overloading </summary>
+
+  -   [158. ](contents)   
+  -   [159. ](contents)   
+  -   [160. ](contents)   
+</details>
 
 
 <details>
