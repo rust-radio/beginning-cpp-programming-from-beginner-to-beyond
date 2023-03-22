@@ -26,4 +26,4 @@
 
 ---
 
-[Previous](.78  ) | [Next]()
+[Previous](./78_if-else-Statement.md) | [Next](./80_switch-case-Statement.md)
