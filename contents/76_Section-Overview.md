@@ -4,9 +4,7 @@
     <img src="../images/76_Section-Overview.png" width="90%" > 
     <img src="../images/76_Section-Overview_2.png" width="90%" > 
     <img src="../images/76_Section-Overview_3.png" width="90%" > 
-    <img src="../images/76_Section-Overview_4.png" width="90%" > 
-    <img src="../images/76_Section-Overview_5.png" width="90%" >    
-     
+               
 </p> 
 
 
@@ -25,4 +23,4 @@
 
 ---
 
-[Previous](./75_Section-Challenge-Solution.md) | [Next]()
+[Previous](./75_Section-Challenge-Solution.md) | [Next](./77_if-Statement.md)

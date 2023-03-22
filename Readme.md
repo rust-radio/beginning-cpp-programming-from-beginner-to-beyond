@@ -4,6 +4,8 @@
 
 -   [BCP-Slides.pdf](https://beatlesm.s3.us-west-1.amazonaws.com/beginning-cpp-programming-from-beginner-to-beyond/BCP-Slides.pdf)
 
+-   [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
+
 
 Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.
 
@@ -140,7 +142,7 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   <summary> Section 9: Controlling Program Flow </summary>
 
   -   [76. Section Overview](contents/76_Section-Overview.md)   
-  -   [77. ](contents)   
+  -   [77. if Statement](contents/77_if-Statement.md)   
   -   [78. ](contents)   
   -   [79. ](contents)   
   -   [80. ](contents)   
@@ -344,6 +346,7 @@ Click the **Signup** button to sign up for the course!
 -   Anyone looking to increase career options by learning one the most in-demand programming languages.
 
 ## Extra
+-   [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
 -   [WebAssembly Beginner to Advanced](https://www.udemy.com/course/webassembly/)
 -   [Rust & WebAssembly with JS (TS) - The Practical Guide](https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/)
 -   [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/)
