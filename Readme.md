@@ -139,9 +139,20 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 9: Controlling Program Flow </summary>
 
-  -   [76. ](contents)   
+  -   [76. Section Overview](contents/76_Section-Overview.md)   
   -   [77. ](contents)   
   -   [78. ](contents)   
+  -   [79. ](contents)   
+  -   [80. ](contents)   
+  -   [81. ](contents)   
+  -   [82. ](contents)   
+  -   [83. ](contents)   
+  -   [84. ](contents)   
+  -   [85. ](contents)   
+  -   [86. ](contents)   
+  -   [87. ](contents)   
+  -   [88. ](contents)   
+  -   [89. ](contents)   
 </details>
 
 <details>
