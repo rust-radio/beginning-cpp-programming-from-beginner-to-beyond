@@ -2,6 +2,9 @@
 
 -   [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/#instructor-1)
 
+-   [BCP-Slides.pdf](https://beatlesm.s3.us-west-1.amazonaws.com/beginning-cpp-programming-from-beginner-to-beyond/BCP-Slides.pdf)
+
+
 Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.
 
 ##  What you'll learn
@@ -23,19 +26,176 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 
   -   [1.  About the Course](contents/1_About-the-Course.md)   
   -   [2.  Why Learn C++?](contents/2_Why-Learn-C%2B%2B%3F.md)   
-  -   [3. Modern C++ and the C++ Standard](contents/3_Modern-C%2B%2B-and-the-C%2B%2B-Standard.md)   
-  -   [4. How does all this work?](contents/4_How-does-all-this-work%3F.md)   
+  -   [3.  Modern C++ and the C++ Standard](contents/3_Modern-C%2B%2B-and-the-C%2B%2B-Standard.md)   
+  -   [4.  How does all this work?](contents/4_How-does-all-this-work%3F.md)   
   -   [5.  FAQ -- Please Read!](contents/5_FAQ_Please-Read!.md)   
 </details>
 
 <details>
   <summary> Section 2: Installation and Setup </summary>
 
-  -   [6.  ](contents)   
-  -   [7.  ](contents)   
+  -   [6.  Installation and Setup Overview](contents/6_Installation-and-Setup-Overview.md)   
+  -   [7.  Installing the C++ Compiler on Windows](contents/7_Installing-the-C%2B%2B-Compiler-on-Windows.md)   
+  -   [8.  Installing CodeLite on Windows](contents/8_Installing-CodeLite-on-Windows.md)   
+  -   [9.  Configuring CodeLite on Windows](contents/9_Configuring-CodeLite-on-Windows.md)   
+  -   [10. Installing the C++ Compiler on Mac OSX](contents/10_Installing-the-C%2B%2B-Compiler-on-Mac-OSX.md)   
+  -   [11. Installing CodeLite on Mac OSX](contents/11_Installing-CodeLite-on-Mac-OSX.md) 
+  -   [12. Configuring CodeLite on Mac OSX](contents/12_Configuring-CodeLite-on-Mac-OSX.md) 
+  -   [13. Using the Command-Line interface](contents/13_Using-the-Command-Line-interface.md) 
+  -   [14. Installing CodeLite on Ubuntu Linux](contents/14_Installing-CodeLite-on-Ubuntu-Linux..md) 
+  -   [15. Configuring CodeLite on Ubuntu Linux](contents/15_Configuring-CodeLite-on-Ubuntu-Linux.md) 
+  -   [16. Creating a Default CodeLite Project Template (All Versions)](contents/16_Creating-a-Default-CodeLite-Project-Template-(All%20Versions).md) 
+  -   [17. Using the Command-Line Interface on Windows](contents/17_Using-the-Command-Line-Interface-on-Windows.md) 
+  -   [18. Using the Command-Line Interface on Mac OSX](contents/18_Using-the-Command-Line%20Interface-on-Mac-OSX.md) 
+  -   [19. Using the Command-Line Interface on Linux (Ubuntu)](contents/19_Using-the-Command-Line-Interface-on-Linux-(Ubuntu).md) 
+  -   [20. Using a Web-based C++ Compiler](contents/20_Using-a-Web-based-C%2B%2B-Compiler.md) 
+  -   [21. Using the Included Source Code Course Resources](contents/21_Using-the-Included-Source-Code-Course-Resources.md) 
+</details>
+
+<details>
+  <summary> Section 3: Curriculum Overview </summary>
+
+  -   [22. Curriculum Overview](contents/22_Curriculum-Overview.md)   
+  -   [23. Overview of the Section Challenge Exercises](contents/23_Overview-of-the-Section-Challenge-Exercises.md)   
+  -   [24. Overview of the Section Quizzes](contents/24_Overview-of-the-Section-Quizzes.md)   
+</details>
+
+<details>
+  <summary> Section 4: Getting Started </summary>
+
+  -   [25. Section Overview](contents/25_Section-Overview.md)   
+  -   [26. An Overview of the CodeLite Interface](contents/26_An-Overview-of-the-CodeLite-Interface.md)   
+  -   [27. Writing our first program](contents/27_Writing-our-first-program.md)   
+  -   [28. Building our first program](contents/28_Building-our-first-program.md)   
+  -   [29. What are Compiler Errors?](contents/29_What-are-Compiler-Errors%3F.md)   
+  -   [30. What are Compiler Warnings?](contents/30_What-are-Compiler-Warnings%3F.md)   
+  -   [31. What are Linker Errors?](contents/31_What-are-Linker-Errors%3F.md)   
+  -   [32. What are Runtime Errors?](contents/32_What-are-Runtime-Errors%3F.md)   
+  -   [33. What are Logic Errors?](contents/33_What-are-Logic-Errors%3F.md)   
+  -   [34. Section Challenge](contents)   
+  -   [35. 35. Section Challenge - Solution](contents/35_Section-Challenge-Solution.md)   
+</details>
+
+<details>
+  <summary> Section 5: Structure of a C++ Program </summary>
+
+  -   [36. Section Overview](contents/36_Section-Overview.md)   
+  -   [37. Overview of the Structure of a C++ Program](contents/37_Overview-of-the-Structure-of-a-Cpp-Program.md)   
+  -   [38. #include Preprocessor Directive](contents/38_%23include-Preprocessor-Directive.md)   
+  -   [39. Comments](contents/39_Comments.md)   
+  -   [40. The main() function](contents/40_The-main()-function.md)   
+  -   [41. Namespaces](contents/41_Namespaces.md)   
+  -   [42. Basic Input and Output (I/O) using cin and cout](contents/42_Basic-Input-and-Output-IO-using-cin-and-cout.md)   
+</details>
+
+<details>
+  <summary> Section 6: Variables and Constants </summary>
+
+  -   [43. Section Overview](contents/43_Section-Overview.md)   
+  -   [44. What is a variable?](contents/44_What-is-a-variable%3F.md)   
+  -   [45. Declaring and Initializing Variables](contents/45_Declaring-and-Initializing-Variables.md)   
+  -   [46. Global Variables](contents/46_Global-Variables.md)   
+  -   [47. C++ Built-in Primitive Types](contents/47_Cpp-Built-in-Primitive-Types.md)   
+  -   [48. What is the Size of a Variable (sizeof)](contents/48_What-is-the-Size-of-a-Variable-(sizeof).md)   
+  -   [49. What is a Constant?](contents/49_What-is-a-Constant%3F.md)   
+  -   [50. Declaring and Using Constants](contents/50_Declaring-and-Using-Constants.md)   
+  -   [51. Section Challenge](contents/51_Section-Challenge.md)   
+  -   [52. Section Challenge - Solution](contents/52_Section-Challenge-Solution.md)   
+</details>
+
+<details>
+  <summary> Section 7: Arrays and Vectors </summary>
+
+  -   [53. Section Overview](contents/53_Section-Overview.md)   
+  -   [54. What is an Array?](contents/54_What-is-an-Array%3F.md)   
+  -   [55. Declaring and Initializing Arrays](contents/55_Declaring-and-Initializing-Arrays.md)   
+  -   [56. Accessing and Modifying Array Elements](contents/56_Accessing-and-Modifying-Array-Elements.md)   
+  -   [57. Multidimensional Arrays](contents/57_Multidimensional-Arrays.md)   
+  -   [58. Declaring and Initializing Vectors](contents/58_Declaring-and-Initializing-Vectors.md)   
+  -   [59. Accessing and Modifying Vector Elements](contents/59_Accessing-and-Modifying-Vector-Elements.md)   
+  -   [60. Section Challeng](contents/60_Section-Challenge.md)   
+  -   [61. Section Challenge - Solution](contents/61_Section-Challenge-Solution.md)   
+</details>
+
+<details>
+  <summary> Section 8: Statements and Operators </summary>
+
+  -   [62. Section Overview](contents/62_Section-Overview.md)   
+  -   [63. Expressions and Statements](contents/63_Expressions-and-Statements.md)   
+  -   [64. Using Operators](contents/64_Using-Operators.md)   
+  -   [65. The Assignment Operator](contents/65_The-Assignment-Operator.md)   
+  -   [66. Arithmetic Operators](contents/66_Arithmetic-Operators.md)   
+  -   [67. Increment and Decrement Operators](contents/67_Increment-and-Decrement-Operators.md)   
+  -   [68. Mixed Expressions and Conversions](contents/68_Mixed-Expressions-and-Conversions.md)   
+  -   [69. Testing for Equality](contents/69_Testing-for-Equality.md)   
+  -   [70. Relational Operators](contents/70_Relational-Operators.md)   
+  -   [71. Logical Operators](contents/71_Logical-Operators.md)   
+  -   [72. Compound Assignment Operators](contents/72_Compound-Assignment-Operators.md)   
+  -   [73. Operator Precedence](contents/73_Operator-Precedence.md)   
+  -   [74. Section Challenge](contents/74_Section-Challenge.md)   
+  -   [75. Section Challenge - Solution](contents/75_Section-Challenge-Solution.md)   
+</details>
+
+<details>
+  <summary> Section 9: Controlling Program Flow </summary>
+
+  -   [76. ](contents)   
+  -   [77. ](contents)   
+  -   [78. ](contents)   
+</details>
+
+<details>
+  <summary> Section 10: Characters and Strings </summary>
+
+  -   [93.  ](contents)   
+  -   [94.  ](contents)   
+  -   [95.  ](contents)   
+</details>
+
+<details>
+  <summary> Section 11: Functions </summary>
+
+  -   [101. ](contents)   
+  -   [102. ](contents)   
+  -   [103. ](contents)   
+</details>
+
+<details>
+  <summary> Section 12: Pointers and References </summary>
+
+  -   [116. ](contents)   
+  -   [117. ](contents)   
+  -   [118. ](contents)   
+</details>
+
+<details>
+  <summary> Section 13: OOP - Classes and Objects </summary>
+
+  -   [134. ](contents)   
+  -   [135. ](contents)   
+  -   [136. ](contents)   
+</details>
+
+<details>
+  <summary> Section 14: Operator Overloading </summary>
+
+  -   [158. ](contents)   
+  -   [159. ](contents)   
+  -   [160. ](contents)   
 </details>
 
 
+<details>
+  <summary> Section 25: Extra Information - Source code, and other stuff </summary>
+
+  -   [304. Source Code for all Sections](contents/304_Source-Code-for-all-Sections.md)   
+</details>
+
+<details>
+  <summary> Section 26: Bonus Section - including Slides </summary>
+
+  -   [305. Bonus - Course Slides and Free Programming EBook](contents/304_Source-Code-for-all-Sections.md)   
+</details>
 
 ##  Requirements
 -   Access to a computer running Windows, Mac OS X or Linux

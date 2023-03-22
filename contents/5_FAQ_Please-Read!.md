@@ -17,4 +17,4 @@ FAQ Document last revised: April 6, 2018
 
 ---
 
-[Previous](./3_Modern-C%2B%2B-and-the-C%2B%2B-Standard.md) | [Next]()
+[Previous](./4_How-does-all-this-work%3F.md) | [Next](./6_Installation-and-Setup-Overview.md)
