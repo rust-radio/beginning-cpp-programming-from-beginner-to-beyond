@@ -147,7 +147,7 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [79. Nested if Statements](contents/79_Nested-if-Statements.md)   
   -   [80. switch-case Statement](contents/80_switch-case-Statement.md)   
   -   [81. Conditional Operator](contents/81_Conditional-Operator.md)   
-  -   [82. ](contents)   
+  -   [82. Looping](contents/82_Looping.md)   
   -   [83. ](contents)   
   -   [84. ](contents)   
   -   [85. ](contents)   
