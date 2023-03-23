@@ -4,6 +4,8 @@
 
 -   [BCP-Slides.pdf](https://beatlesm.s3.us-west-1.amazonaws.com/beginning-cpp-programming-from-beginner-to-beyond/BCP-Slides.pdf)
 
+-   [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
+
 
 Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.
 
@@ -20,6 +22,10 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 -   New Section: Learn all about using C++ Lambda Expressions
 
 > 26 sections • 305 lectures • 45h 48m total length
+
+## Contents
+
+-   [C++11 - What's new?](contents/0_C%2B%2B11.md)
 
 <details>
   <summary> Section 1: Introduction </summary>
@@ -139,9 +145,23 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 9: Controlling Program Flow </summary>
 
-  -   [76. ](contents)   
-  -   [77. ](contents)   
-  -   [78. ](contents)   
+  -   [76. Section Overview](contents/76_Section-Overview.md)   
+  -   [77. if Statement](contents/77_if-Statement.md)   
+  -   [78. if else Statement](contents/78_if-else-Statement.md)   
+  -   [79. Nested if Statements](contents/79_Nested-if-Statements.md)   
+  -   [80. switch-case Statement](contents/80_switch-case-Statement.md)   
+  -   [81. Conditional Operator](contents/81_Conditional-Operator.md)   
+  -   [82. Looping](contents/82_Looping.md)   
+  -   [83. for Loop](contents/83_for-Loop.md)   
+  -   [84. range-based for Loop](contents/84_range-based-for-Loop.md)   
+  -   [85. while Loop](contents/85_while-Loop.md)   
+  -   [86. do while Loop](contents/86_do-while-Loop.md)   
+  -   [87. continue and break](contents/87_continue-and-break.md)   
+  -   [88. Infinite Loops](contents/88_Infinite-Loops.md)   
+  -   [89. Nested Loops](contents/89_Nested-Loops.md)   
+  -   [90. Section Challenge](contents/90_Section-Challenge.md)   
+  -   [91. Section Challenge - Solution Part 1](contents/91_Section-Challenge-Solution-Part-1.md)   
+  -   [92. Section Challenge - Solution Part 2](contents/92_Section-Challenge-Solution-Part-2.md)   
 </details>
 
 <details>
@@ -333,6 +353,7 @@ Click the **Signup** button to sign up for the course!
 -   Anyone looking to increase career options by learning one the most in-demand programming languages.
 
 ## Extra
+-   [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
 -   [WebAssembly Beginner to Advanced](https://www.udemy.com/course/webassembly/)
 -   [Rust & WebAssembly with JS (TS) - The Practical Guide](https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide/)
 -   [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/)
