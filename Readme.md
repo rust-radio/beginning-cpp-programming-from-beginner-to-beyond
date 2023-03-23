@@ -148,13 +148,16 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [80. switch-case Statement](contents/80_switch-case-Statement.md)   
   -   [81. Conditional Operator](contents/81_Conditional-Operator.md)   
   -   [82. Looping](contents/82_Looping.md)   
-  -   [83. ](contents)   
+  -   [83. for Loop](contents/83_for-Loop.md)   
   -   [84. ](contents)   
   -   [85. ](contents)   
   -   [86. ](contents)   
   -   [87. ](contents)   
   -   [88. ](contents)   
   -   [89. ](contents)   
+  -   [90. ](contents)   
+  -   [91. ](contents)   
+  -   [92. ](contents)   
 </details>
 
 <details>
