@@ -1,9 +1,8 @@
-# 86. do while Loop
+# 87. continue and break
 
 <p align="center" >
-    <img src="../images/86_do-while-Loop.png" width="90%" > 
-    <img src="../images/86_do-while-Loop_2.png" width="90%" > 
-    <img src="../images/86_do-while-Loop_3.png" width="90%" > 
+    <img src="../images/87_continue-and-break.png" width="90%" > 
+    <img src="../images/87_continue-and-break_2.png" width="90%" >     
                
 </p> 
 
@@ -20,7 +19,7 @@
   g++ -Wall -Wextra -Wpedantic -Wmisleading-indentation -std=c++17 main.cpp
   ```
 
-  - [Codebase: 86. do while Loop](../codebase/S9_Controlling-Program-Flow/DoWhile/)
+  - [Codebase: 87. continue and break](../codebase/S9_Controlling-Program-Flow/)
 
 </details>
 
@@ -28,4 +27,4 @@
 
 ---
 
-[Previous](./85_while-Loop.md) | [Next](./87_continue-and-break.md)
+[Previous](./86_do-while-Loop.md) | [Next](./88_Infinite-Loops.md)
