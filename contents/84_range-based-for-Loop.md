@@ -52,4 +52,4 @@
 
 ---
 
-[Previous](./82_Looping.md) | [Next](./85_while-Loop.md)
+[Previous](./83_for-Loop.md) | [Next](./85_while-Loop.md)

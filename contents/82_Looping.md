@@ -23,4 +23,4 @@
 
 ---
 
-[Previous](./81_Conditional-Operator.md) | [Next](./83_for%20Loop.md)
+[Previous](./81_Conditional-Operator.md) | [Next](./83_for-Loop.md)

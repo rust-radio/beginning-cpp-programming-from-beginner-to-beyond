@@ -167,9 +167,14 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 10: Characters and Strings </summary>
 
-  -   [93.  ](contents)   
-  -   [94.  ](contents)   
-  -   [95.  ](contents)   
+  -   [93.  Section Overview](contents/93_Section-Overview.md)   
+  -   [94.  Character Functions](contents/94_Character-Functions.md)   
+  -   [95.  C-Style Strings](contents/95_C-Style-Strings.md)   
+  -   [96.  Working with C-style Strings](contents/96_Working-with-C-style-Strings.md)   
+  -   [97.  C++ Strings](contents/97_Cpp-Strings.md)   
+  -   [98.  Working with C++ Strings](contents/98_Working-with-Cpp-Strings.md)   
+  -   [99.  Section Challenge](contents/99_Section-Challenge.md)   
+  -   [100. Section Challenge - Solution](contents/100_Section-Challenge-Solution.md)   
 </details>
 
 <details>
@@ -178,6 +183,18 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [101. ](contents)   
   -   [102. ](contents)   
   -   [103. ](contents)   
+  -   [104. ](contents)   
+  -   [105. ](contents)   
+  -   [106. ](contents)   
+  -   [107. ](contents)   
+  -   [108. ](contents)   
+  -   [109. ](contents)   
+  -   [110. ](contents)   
+  -   [111. ](contents)   
+  -   [112. ](contents)   
+  -   [113. ](contents)   
+  -   [114. ](contents)   
+  -   [115. ](contents)   
 </details>
 
 <details>
@@ -186,6 +203,21 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [116. ](contents)   
   -   [117. ](contents)   
   -   [118. ](contents)   
+  -   [119. ](contents)   
+  -   [120. ](contents)   
+  -   [121. ](contents)   
+  -   [122. ](contents)   
+  -   [123. ](contents)   
+  -   [124. ](contents)   
+  -   [125. ](contents)   
+  -   [126. ](contents)   
+  -   [127. ](contents)   
+  -   [128. ](contents)   
+  -   [129. ](contents)   
+  -   [130. ](contents)   
+  -   [131. ](contents)   
+  -   [132. ](contents)   
+  -   [133. ](contents)   
 </details>
 
 <details>
