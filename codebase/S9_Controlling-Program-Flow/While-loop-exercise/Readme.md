@@ -28,7 +28,7 @@ int count_numbers(const vector<int> &vec) {
 }
 ```
 
--   The solution with errors.
+-   The solution with potential issues.
 ```C++
 #include <iostream>
 #include <vector>
