@@ -79,7 +79,7 @@ In the above examples, we used the following STL algorithms:
 -   `std::accumulate`: accumulates the elements of a container into a single value.
 
 <details>
-  <summary> How to replicate map, filter and reduce behaviors in C++ using STL? </summary>
+  <summary> How to replicate for_each, range_based_forloop, map, filter and reduce behaviors in C++? </summary>
 
   -   using `g++`
   ```
@@ -89,5 +89,8 @@ In the above examples, we used the following STL algorithms:
   - [Codebase: Section 7: Arrays and Vectors - Map](Map)
   - [Codebase: Section 7: Arrays and Vectors - Filter](Filter)
   - [Codebase: Section 7: Arrays and Vectors - Reduce](Reduce)
+  - [Codebase: Section 7: Arrays and Vectors - std-for_each](std-for_each)
+  - [Codebase: Section 7: Arrays and Vectors - RangeBasedForLoop](range-based-for-loop)
+  - [Codebase: Section 9: Controlling Program Flow - RangeBasedForLoop](../S9_Controlling-Program-Flow/RangeBasedForLoop/)
 
 </details>

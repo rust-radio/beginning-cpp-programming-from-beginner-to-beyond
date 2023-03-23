@@ -23,6 +23,10 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 
 > 26 sections • 305 lectures • 45h 48m total length
 
+## Contents
+
+-   [C++11 - What's new?](contents/0_C%2B%2B11.md)
+
 <details>
   <summary> Section 1: Introduction </summary>
 
@@ -149,7 +153,7 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [81. Conditional Operator](contents/81_Conditional-Operator.md)   
   -   [82. Looping](contents/82_Looping.md)   
   -   [83. for Loop](contents/83_for-Loop.md)   
-  -   [84. ](contents)   
+  -   [84. range-based for Loop](contents/84_range-based-for-Loop.md)   
   -   [85. ](contents)   
   -   [86. ](contents)   
   -   [87. ](contents)   
