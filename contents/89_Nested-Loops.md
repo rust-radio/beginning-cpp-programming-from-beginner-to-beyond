@@ -25,10 +25,12 @@
 
   - [Codebase: 89. Nested Loops](../codebase/S9_Controlling-Program-Flow/MultiplcationTable/)
 
+  - [Codebase: 89. Nested Loops - Histogram](../codebase/S9_Controlling-Program-Flow/Histogram/)
+
 </details>
 
 
 
 ---
 
-[Previous](./88_Infinite-Loops.md) | [Next]()
+[Previous](./88_Infinite-Loops.md) | [Next](./90_Section-Challenge.md)

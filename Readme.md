@@ -159,9 +159,9 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [87. continue and break](contents/87_continue-and-break.md)   
   -   [88. Infinite Loops](contents/88_Infinite-Loops.md)   
   -   [89. Nested Loops](contents/89_Nested-Loops.md)   
-  -   [90. ](contents)   
-  -   [91. ](contents)   
-  -   [92. ](contents)   
+  -   [90. Section Challenge](contents/90_Section-Challenge.md)   
+  -   [91. Section Challenge - Solution Part 1](contents/91_Section-Challenge-Solution-Part-1.md)   
+  -   [92. Section Challenge - Solution Part 2](contents/92_Section-Challenge-Solution-Part-2.md)   
 </details>
 
 <details>
