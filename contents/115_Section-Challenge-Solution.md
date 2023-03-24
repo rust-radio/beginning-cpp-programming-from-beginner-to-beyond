@@ -1,7 +1,7 @@
-# 100. Section Challenge - Solution
+# 115. Section Challenge-Solution
 
 <details>
-  <summary> Section 10: Characters and Strings </summary>
+  <summary> Section 11: Functions </summary>
 
   -   using `g++`
   ```
@@ -12,12 +12,12 @@
   g++ -Wall -Wextra -Wpedantic -Wmisleading-indentation -std=c++17 main.cpp
   ```
 
-  - [Codebase: 100. Section Challenge - Solution](../codebase/S10_Characters-and-Strings/ChallengeSolution/)  
-  
+  - [Codebase: 115. Section Challenge-Solution](../codebase/S11_Functions/ChallengeSolution/)  
+
 </details>
 
 
 
 ---
 
-[Previous](./99_Section-Challenge.md) | [Next](./101_Section-Overview.md)
+[Previous](./114_Section-Challenge.md) | [Next]()

@@ -180,21 +180,21 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
 <details>
   <summary> Section 11: Functions </summary>
 
-  -   [101. ](contents)   
-  -   [102. ](contents)   
-  -   [103. ](contents)   
-  -   [104. ](contents)   
-  -   [105. ](contents)   
-  -   [106. ](contents)   
-  -   [107. ](contents)   
-  -   [108. ](contents)   
-  -   [109. ](contents)   
-  -   [110. ](contents)   
-  -   [111. ](contents)   
-  -   [112. ](contents)   
-  -   [113. ](contents)   
-  -   [114. ](contents)   
-  -   [115. ](contents)   
+  -   [101. Section Overview](contents/101_Section-Overview.md)   
+  -   [102. What is a Function?](contents/102_What-is-a-Function%3F.md)   
+  -   [103. Function Definition](contents/103_Function-Definition.md)   
+  -   [104. Function Prototypes](contents/104_Function-Prototypes.md)   
+  -   [105. Function Parameters and the return Statement ](contents/105_Function-Parameters-and-the-return-Statement.md)   
+  -   [106. Default Argument Values](contents/106_Default-Argument-Values.md)   
+  -   [107. Overloading Functions](contents/107_Overloading-Functions.md)   
+  -   [108. Passing Arrays to Functions](contents/108_Passing-Arrays-to-Functions.md)   
+  -   [109. Pass by Reference](contents/109_Pass-by-Reference.md)   
+  -   [110. Scope Rules](contents/110_Scope-Rules.md)   
+  -   [111. How do Function Calls Work?](contents/111_How-do-Function-Calls-Work%3F.md)   
+  -   [112. inline Functions](contents/112_inline-Functions.md)   
+  -   [113. Recursive Functions](contents/113_Recursive-Functions.md)   
+  -   [14. Section Challenge](contents/114_Section-Challenge.md)   
+  -   [115. Section Challenge-Solution](contents/115_Section-Challenge-Solution.md)   
 </details>
 
 <details>
@@ -236,6 +236,85 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [160. ](contents)   
 </details>
 
+<details>
+  <summary> Section 15: Inheritance </summary>
+
+  -   [168. ](contents)   
+  -   [169. ](contents)   
+  -   [170. ](contents)   
+</details>
+
+<details>
+  <summary> Section 16: Polymorphism </summary>
+
+  -   [182. ](contents)   
+  -   [183. ](contents)   
+  -   [184. ](contents)   
+</details>
+
+<details>
+  <summary> Section 17: Smart Pointers </summary>
+
+  -   [196. ](contents)   
+  -   [197. ](contents)   
+  -   [198. ](contents)   
+</details>
+
+<details>
+  <summary> Section 18: Exception Handling </summary>
+
+  -   [205. ](contents)   
+  -   [206. ](contents)   
+  -   [207. ](contents)   
+</details>
+
+<details>
+  <summary> Section 19: I/O and Streams </summary>
+
+  -   [215. ](contents)   
+  -   [216. ](contents)   
+  -   [217. ](contents)   
+</details>
+
+<details>
+  <summary> Section 20: The Standard Template Library (STL) </summary>
+
+  -   [237. ](contents)   
+  -   [238. ](contents)   
+  -   [239. ](contents)   
+</details>
+
+<details>
+  <summary> Section 21: Lambda Expressions </summary>
+
+  -   [265. ](contents)   
+  -   [266. ](contents)   
+  -   [267. ](contents)   
+</details>
+
+<details>
+  <summary> Section 22: Bonus Section - Using Visual Studio Code </summary>
+
+  -   [275. ](contents)   
+  -   [276. ](contents)   
+  -   [277. ](contents)   
+</details>
+
+<details>
+  <summary> Section 23: Bonus Section - Enumerations </summary>
+
+  -   [288. ](contents)   
+  -   [289. ](contents)   
+  -   [290. ](contents)   
+</details>
+
+<details>
+  <summary> Section 24: ARCHIVED - OLD INSTALLATION VIDEOS </summary>
+
+  -   [293. ](contents)   
+  -   [294. ](contents)   
+  -   [295. ](contents)   
+</details>
 
 <details>
   <summary> Section 25: Extra Information - Source code, and other stuff </summary>
