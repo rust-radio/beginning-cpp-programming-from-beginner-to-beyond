@@ -20,6 +20,8 @@
   ```
 
   - [Codebase: 53. Section Overview](../codebase/S7_Arrays-and-Vectors/)
+  
+  - [Codebase: 53. Section Overview - printArray](../codebase/S7_Arrays-and-Vectors/printArray/)
 
 </details>
 

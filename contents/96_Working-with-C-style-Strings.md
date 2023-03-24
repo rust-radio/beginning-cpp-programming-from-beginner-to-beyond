@@ -1,7 +1,7 @@
-# 91. Section Challenge - Solution Part 1
+# 96. Working with C-style Strings
 
 <details>
-  <summary> Section 9: Controlling Program Flow </summary>
+  <summary> Section 10: Characters and Strings </summary>
 
   -   using `g++`
   ```
@@ -12,7 +12,7 @@
   g++ -Wall -Wextra -Wpedantic -Wmisleading-indentation -std=c++17 main.cpp
   ```
 
-  - [Codebase: 91. Section Challenge - Solution](../codebase/S9_Controlling-Program-Flow/ChallengeSolution/)
+  - [Codebase: 96. Working with C-style Strings](../codebase/S10_Characters-and-Strings/CstyleStrings/)
 
 </details>
 
@@ -20,4 +20,4 @@
 
 ---
 
-[Previous](./90_Section-Challenge.md) | [Next](./92_Section-Challenge-Solution-Part-2.md)
+[Previous](./95_C-Style-Strings.md) | [Next](./97_Cpp-Strings.md)
