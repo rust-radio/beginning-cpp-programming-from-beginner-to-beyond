@@ -1,4 +1,4 @@
-# 71. Logical Operators
+# 71. Logical Operators (p112)
 
 <p align="center" >
     <img src="../images/71_Logical-Operators.png" width="90%" >       

@@ -1,4 +1,4 @@
-# 23. Overview of the Section Challenge Exercises
+# 23. Overview of the Section Challenge Exercises (p17)
 
 <p align="center" >
     <img src="../images/23_Overview-of-the-Section-Challenge-Exercises.png" width="90%" >

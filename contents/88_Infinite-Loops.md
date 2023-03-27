@@ -1,4 +1,4 @@
-# 88. Infinite Loops
+# 88. Infinite Loops (p176)
 
 <p align="center" >
     <img src="../images/88_Infinite-Loops.png" width="90%" > 

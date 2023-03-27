@@ -1,4 +1,4 @@
-# 32. What are Runtime Errors?
+# 32. What are Runtime Errors? (p23)
 
 <p align="center" >
     <img src="../images/32_What-are-Runtime-Errors.png" width="90%" >

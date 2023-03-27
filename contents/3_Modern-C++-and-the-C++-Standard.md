@@ -1,4 +1,4 @@
-# 3. Modern C++ and the C++ Standard
+# 3. Modern C++ and the C++ Standard (p9)
 
 <p align="center" >
     <img src="../images/3_Modern-C++-and-the-C++-Standard.png" width="45%" >

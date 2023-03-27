@@ -1,4 +1,4 @@
-# 58. Declaring and Initializing Vectors
+# 58. Declaring and Initializing Vectors (p87)
 
 -   [C++11 - What's new?](./0_C%2B%2B11.md)
 

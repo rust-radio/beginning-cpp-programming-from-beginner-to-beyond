@@ -1,4 +1,4 @@
-# 112. inline Functions
+# 112. inline Functions (p271)
 
 <p align="center" >
     <img src="../images/112_inline-Functions.png" width="90%" >     

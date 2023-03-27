@@ -1,4 +1,4 @@
-# 94. Character Functions
+# 94. Character Functions (p188)
 
 <p align="center" >
     <img src="../images/94_Character-Functions.png" width="90%" > 

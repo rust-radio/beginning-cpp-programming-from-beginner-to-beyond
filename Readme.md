@@ -4,6 +4,8 @@
 
 -   [BCP-Slides.pdf](https://beatlesm.s3.us-west-1.amazonaws.com/beginning-cpp-programming-from-beginner-to-beyond/BCP-Slides.pdf)
 
+-   [Learn Advanced Modern C++](https://www.udemy.com/course/learn-intermediate-modern-c/)
+
 -   [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
 
 
@@ -193,17 +195,17 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [111. How do Function Calls Work?](contents/111_How-do-Function-Calls-Work%3F.md)   
   -   [112. inline Functions](contents/112_inline-Functions.md)   
   -   [113. Recursive Functions](contents/113_Recursive-Functions.md)   
-  -   [14. Section Challenge](contents/114_Section-Challenge.md)   
+  -   [114. Section Challenge](contents/114_Section-Challenge.md)   
   -   [115. Section Challenge-Solution](contents/115_Section-Challenge-Solution.md)   
 </details>
 
 <details>
   <summary> Section 12: Pointers and References </summary>
 
-  -   [116. ](contents)   
-  -   [117. ](contents)   
-  -   [118. ](contents)   
-  -   [119. ](contents)   
+  -   [116. Section Overview](contents/116_Section-Overview.md)   
+  -   [117. What is a Pointer?](contents/117_What-is-a-Pointer%3F.md)   
+  -   [118. Declaring Pointers](contents/118_Declaring-Pointers.md)   
+  -   [119. Accessing the Pointer Address and Storing Address in a Pointer](contents/119_Accessing-the-Pointer-Address-and-Storing-Address-in-a-Pointer.md)   
   -   [120. ](contents)   
   -   [121. ](contents)   
   -   [122. ](contents)   

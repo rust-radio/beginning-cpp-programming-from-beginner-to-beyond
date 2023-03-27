@@ -1,4 +1,4 @@
-# 35. Section Challenge - Solution
+# 35. Section Challenge - Solution (p33)
 
 <p align="center" >
     <img src="../images/34_Section-Challenge.png" width="90%" >

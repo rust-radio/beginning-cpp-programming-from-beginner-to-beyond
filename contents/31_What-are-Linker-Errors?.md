@@ -1,4 +1,4 @@
-# 31. What are Linker Errors?
+# 31. What are Linker Errors? (p22)
 
 
 <p align="center" >

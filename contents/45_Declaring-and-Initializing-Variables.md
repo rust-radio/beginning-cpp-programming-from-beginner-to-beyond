@@ -1,4 +1,4 @@
-# 45. Declaring and Initializing Variables
+# 45. Declaring and Initializing Variables (p51)
 
 <p align="center" >
     <img src="../images/45_Declaring-and-Initializing-Variables.png" width="90%" >

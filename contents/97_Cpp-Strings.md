@@ -1,4 +1,4 @@
-# 97. C++ Strings
+# 97. C++ Strings (p199)
 
 <details>
   <summary> 97. C++ Strings - Slides </summary>
