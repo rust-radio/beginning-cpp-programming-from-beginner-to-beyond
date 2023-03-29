@@ -1,4 +1,4 @@
-# 47. C++ Built-in Primitive Types
+# 47. C++ Built-in Primitive Types (p56)
 
 -   [Errata-47.pdfIn](https://beatlesm.s3.us-west-1.amazonaws.com/beginning-cpp-programming-from-beginner-to-beyond/Errata-47.pdf)
 

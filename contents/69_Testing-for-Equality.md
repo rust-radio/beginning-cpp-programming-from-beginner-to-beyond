@@ -1,4 +1,4 @@
-# 69. Testing for Equality
+# 69. Testing for Equality (p109)
 
 <p align="center" >
     <img src="../images/69_Testing-for-Equality.png" width="90%" >       

@@ -1,4 +1,4 @@
-# 40. The main() function
+# 40. The main() function (p38)
 
 <p align="center" >
     <img src="../images/40_The-main()-function.png" width="90%" >

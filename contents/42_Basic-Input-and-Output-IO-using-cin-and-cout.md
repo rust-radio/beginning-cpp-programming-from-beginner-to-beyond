@@ -1,4 +1,4 @@
-# 42. Basic Input and Output (I/O) using cin and cout
+# 42. Basic Input and Output (I/O) using cin and cout (p43)
 
 <p align="center" >
     <img src="../images/42_Basic-Input-and-Output-IO-using-cin-and-cout.png" width="90%" >

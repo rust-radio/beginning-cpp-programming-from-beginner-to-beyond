@@ -1,4 +1,4 @@
-# 55. Declaring and Initializing Arrays
+# 55. Declaring and Initializing Arrays (p74)
 
 -   [C++11 - What's new?](./0_C%2B%2B11.md)
 

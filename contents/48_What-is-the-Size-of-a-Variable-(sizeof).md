@@ -1,4 +1,4 @@
-# 48. What is the Size of a Variable (sizeof)
+# 48. What is the Size of a Variable (sizeof) (p83)
 
 <p align="center" >
     <img src="../images/48_What-is-the-Size-of-a-Variable-sizeof.png" width="90%" >

@@ -1,4 +1,4 @@
-# 95. C-Style Strings
+# 95. C-Style Strings (p191)
 
 <p align="center" >
     <img src="../images/95_C-Style-Strings.png" width="90%" > 

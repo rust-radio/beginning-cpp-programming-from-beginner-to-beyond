@@ -1,4 +1,4 @@
-# 26. An Overview of the CodeLite Interface
+# 26. An Overview of the CodeLite Interface (p19)
 
 <p align="center" >
     <img src="../images/25_Section-Overview.png" width="90%" >

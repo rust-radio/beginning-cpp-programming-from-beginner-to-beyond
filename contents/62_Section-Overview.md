@@ -1,11 +1,7 @@
-# 62. Section Overview
+# 62. Section Overview (p98)
 
 <p align="center" >
     <img src="../images/62_Section-Overview.png" width="90%" > 
-    <img src="../images/62_Section-Overview_2.png" width="90%" > 
-    <img src="../images/62_Section-Overview_3.png" width="90%" > 
-    <img src="../images/62_Section-Overview_4.png" width="90%" > 
-    <img src="../images/62_Section-Overview_5.png" width="90%" >    
      
 </p> 
 

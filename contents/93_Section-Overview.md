@@ -1,4 +1,4 @@
-# 93. Section Overview (p188)
+# 93. Section Overview (p187)
 
 <p align="center" >
     <img src="../images/93_Section-Overview.png" width="90%" > 
