@@ -206,7 +206,7 @@ Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C+
   -   [117. What is a Pointer?](contents/117_What-is-a-Pointer%3F.md)   
   -   [118. Declaring Pointers](contents/118_Declaring-Pointers.md)   
   -   [119. Accessing the Pointer Address and Storing Address in a Pointer](contents/119_Accessing-the-Pointer-Address-and-Storing-Address-in-a-Pointer.md)   
-  -   [120. ](contents)   
+  -   [120. Dereferencing a Pointer](contents/120_Dereferencing-a-Pointer.md)   
   -   [121. ](contents)   
   -   [122. ](contents)   
   -   [123. ](contents)   

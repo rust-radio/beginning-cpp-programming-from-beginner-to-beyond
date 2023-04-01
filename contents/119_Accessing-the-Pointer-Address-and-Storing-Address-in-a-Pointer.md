@@ -30,4 +30,4 @@
 
 ---
 
-[Previous](./118_Declaring-Pointers.md) | [Next]()
+[Previous](./118_Declaring-Pointers.md) | [Next](./120_Dereferencing-a-Pointer.md)
